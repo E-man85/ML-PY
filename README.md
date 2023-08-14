@@ -12,8 +12,13 @@ My learning journey in Machine Learning with Python.
 > [00Fundamental_en.html](https://github.com/E-man85/ML-PY/blob/main/02-study/00Fundamental_en.html) HTML generated from notebook
 
 > [01Numpy_en.ipynb](https://github.com/E-man85/ML-PY/blob/main/02-study/01Numpy_en.ipynb) Concepts and some practical examples with numpy
->
-> [00Fundamental_en.html](https://github.com/E-man85/ML-PY/blob/main/02-study/00Fundamental_en.html) HTML generated from notebook
+
+> [01Numpy_en.html](https://github.com/E-man85/ML-PY/blob/main/02-study/01Numpy_en.html) HTML generated from notebook
+
+> [02MatplotlibSeaborn_en.ipynb](https://github.com/E-man85/ML-PY/blob/main/02-study/02MatplotlibSeaborn_en.ipynb) 
+Concepts and practical examples with matplotlib and seaborn libraries
+
+> [02MatplotlibSeaborn_en.html](https://github.com/E-man85/ML-PY/blob/main/02-study/02MatplotlibSeaborn_en.html) HTML generated from notebook
 
 [03-data](https://github.com/E-man85/ML-PY/tree/main/03-data)
 
