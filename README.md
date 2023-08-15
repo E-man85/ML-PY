@@ -23,6 +23,20 @@ Concepts and practical examples with matplotlib and seaborn libraries
 > [03Pandas_en.ipynb](https://github.com/E-man85/ML-PY/blob/main/02-study/03Pandas_en.ipynb) Concepts and practical examples with pandas library
 >
 > [03Pandas_en.html](https://github.com/E-man85/ML-PY/blob/main/02-study/03Pandas_en.html) HTML generated from notebook
+>
+> Pandas study suggestion (links): [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html) /
+[Cookbook](https://pandas.pydata.org/docs/user_guide/cookbook.html#cookbook)
+
+> [04ScikitLearn_en.ipynb](https://github.com/E-man85/ML-PY/blob/main/02-study/04ScikitLearn_en.ipynb) Concepts and practical examples with Scikit-Learn library
+>
+> [04ScikitLean_en.html](https://github.com/E-man85/ML-PY/blob/main/02-study/04ScikitLearn_en.html) HTML generated from notebook
+>
+> [04DataReport.html](https://github.com/E-man85/ML-PY/blob/main/02-study/04DataReport.html) Example html generated via pandas profiling
+
+> [05StatsModels(timeSeries)_en.ipynb](https://github.com/E-man85/ML-PY/blob/main/02-study/05StatsModels(TimeSeries)_en.ipynb) Concepts and practical examples with Stats Models library in Time series
+>
+> [05StatsModels(timeSeries)_en.html](https://github.com/E-man85/ML-PY/blob/main/02-study/05StatsModels(TimeSeries)_en.html)HTML generated from notebook
+
 
 [03-data](https://github.com/E-man85/ML-PY/tree/main/03-data)
 
@@ -38,4 +52,4 @@ Some csv files
 
 [05-images](https://github.com/E-man85/ML-PY/tree/main/05-images)
 
-Images used np repository
+Images used in repository
